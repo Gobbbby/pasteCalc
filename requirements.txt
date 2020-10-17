@@ -1,0 +1,2 @@
+# for accessing the clipboard (copying and pasting from it)
+pyperclip>=1.8.1
